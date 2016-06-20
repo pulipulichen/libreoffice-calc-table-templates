@@ -6,3 +6,6 @@ LibreOffice Calc的萬用表格彙集處
 
 LibreOffice是免費的自由軟體
 安裝方法請參考此網頁：http://blog.pulipuli.info/2016/04/libreoffice-portable-libreoffice.html
+
+# MEMO
+http://pulipulichen.github.io/libreoffice-calc-table-templates
